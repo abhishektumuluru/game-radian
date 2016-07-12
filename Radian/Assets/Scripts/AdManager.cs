@@ -6,8 +6,8 @@ public class AdManager : MonoBehaviour
 {
 	public static AdManager Instance{ set; get; }
 
-	private const string BANNER_ID = "ca-app-pub-6834855329284925/6434667499";
-	private const string INTERSTITIAL_ID = "ca-app-pub-6834855329284925/4818333494";
+	private const string BANNER_ID = "";
+	private const string INTERSTITIAL_ID = "";
 
 	private void Start() {
 		Instance = this;

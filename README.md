@@ -32,7 +32,9 @@ Sprites from the following sources were used
 
 ### Authors
 >Abhishek S. Tumuluru
+  https://github.com/abhishektumuluru
 
 >Mohit Chauhan
+  https://github.com/mchauhan3/
 ### Updated Version
 1.0.4
